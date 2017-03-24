@@ -1,5 +1,14 @@
 Cold and dry, but colour is my favourite
+<<<<<<< HEAD
 Two moons is a problem for Wolfman
 Mummi will probably appreciate lack of humidity
 Check suitability for Venus colonisation
 THIS IS A NEW LINE
+=======
+Three moons is a problem for Wolfman
+Mummi will appreciate lack of humidity
+Check suitability for Venus colonisation
+
+change by swithun
+
+>>>>>>> 579b2bf2298a19e74beb3dbdca14d26de108c032
